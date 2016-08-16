@@ -6,4 +6,5 @@ HackOER - Applying FLOSS best practices to OER
 * using build tools to generate multiple formats
 * leveraging i18n methods
 * packaging in several formats
+* nurture a community around
 * etc.
