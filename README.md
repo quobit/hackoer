@@ -8,3 +8,9 @@ HackOER - Applying FLOSS best practices to OER
 * packaging in several formats
 * nurturing a community around OERs
 * etc.
+
+## links
+
+* [FutuOER](http://www.futuoer.org/)
+* [OER Commons](https://www.oercommons.org/)
+* [OER Hub](https://oerhub.net/)
