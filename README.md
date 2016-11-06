@@ -1,5 +1,4 @@
-# hackoer
-HackOER - Applying FLOSS best practices to OER (draft)
+# HackOER - Applying FLOSS best practices to OER
 
 * treating content as source code (in plain text)
 * keeping it under version control
