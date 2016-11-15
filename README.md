@@ -13,6 +13,7 @@
 * [FutuOER](http://www.futuoer.org/)
 * [OER Commons](https://www.oercommons.org/)
 * [OER Hub](https://oerhub.net/)
+* [OER World Map](https://oerworldmap.org/)
 * [5R permissions](http://opencontent.org/definition/)
 * [OER Beyond Voluntarism](https://www.insidehighered.com/views/2014/08/28/open-educational-resources-movement-needs-move-beyond-voluntarism-essay)
 * [Why Can’t OER Enjoy the Same Success as Open Source Software?](https://www.edsurge.com/news/2014-09-03-opinion-why-can-t-oer-enjoy-the-same-success-as-open-source-software)
