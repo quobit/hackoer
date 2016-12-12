@@ -21,3 +21,4 @@
 * [The Four R’s of Openness and ALMS Analysis: Frameworks for OER](http://scholarsarchive.byu.edu/facpub/822/)
 * [Applying Software Development Paradigms to OER](https://www.openeducationeuropa.eu/en/article/Applying-Software-Development-Paradigms-to-Open-Educational-Resources)
 * [OERPUB](https://github.com/oerpub/documentation/wiki)
+* [Good Enough Practices in Scientific Computing](https://arxiv.org/abs/1609.00037)
