@@ -22,3 +22,10 @@
 * [Applying Software Development Paradigms to OER](https://www.openeducationeuropa.eu/en/article/Applying-Software-Development-Paradigms-to-Open-Educational-Resources)
 * [OERPUB](https://github.com/oerpub/documentation/wiki)
 * [Good Enough Practices in Scientific Computing](https://arxiv.org/abs/1609.00037)
+
+### tools
+
+* [Sphinx](http://www.sphinx-doc.org/)
+* [gitbook](https://www.gitbook.com/)
+* [pandoc](http://pandoc.org/)
+* [pollen](http://docs.racket-lang.org/pollen/)
