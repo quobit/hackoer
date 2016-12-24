@@ -29,5 +29,6 @@
 * [gitbook](https://www.gitbook.com/)
 * [pandoc](http://pandoc.org/)
 * [pollen](http://docs.racket-lang.org/pollen/)
+* [ShareLaTeX](https://www.sharelatex.com/)
 * [GitHub](https://github.com/)
 * [BitBucket](https://bitbucket.org/)
