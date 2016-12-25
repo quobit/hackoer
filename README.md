@@ -30,5 +30,6 @@
 * [pandoc](http://pandoc.org/)
 * [pollen](http://docs.racket-lang.org/pollen/)
 * [ShareLaTeX](https://www.sharelatex.com/)
+* [Reveal.js](https://github.com/hakimel/reveal.js/)
 * [GitHub](https://github.com/)
 * [BitBucket](https://bitbucket.org/)
