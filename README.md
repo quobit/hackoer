@@ -8,7 +8,7 @@
 * nurturing a community around OERs
 * etc.
 
-## links
+## reference
 
 * [FutuOER](http://www.futuoer.org/)
 * [OER Commons](https://www.oercommons.org/)
