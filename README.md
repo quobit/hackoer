@@ -29,6 +29,7 @@
 * [gitbook](https://www.gitbook.com/)
 * [pandoc](http://pandoc.org/)
 * [pollen](http://docs.racket-lang.org/pollen/)
+* [StaticGen](https://www.staticgen.com/)
 * [ShareLaTeX](https://www.sharelatex.com/)
 * [Reveal.js](https://github.com/hakimel/reveal.js/)
 * [GitHub](https://github.com/)
