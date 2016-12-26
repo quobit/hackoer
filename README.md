@@ -12,6 +12,7 @@
 
 * [FutuOER](http://www.futuoer.org/)
 * [OER Commons](https://www.oercommons.org/)
+* [OER Knowledge Cloud](https://oerknowledgecloud.org/)
 * [OER Hub](https://oerhub.net/)
 * [OER World Map](https://oerworldmap.org/)
 * [5R permissions](http://opencontent.org/definition/)
