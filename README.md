@@ -24,6 +24,8 @@
 * [OERPUB](https://github.com/oerpub/documentation/wiki)
 * [Good Enough Practices in Scientific Computing](https://arxiv.org/abs/1609.00037)
 * [80 resources for Open Education Developers](http://oedb.org/ilibrarian/80-oer-tools/)
+* [SCORM](http://scorm.com/scorm-explained/)
+* [IMS Common Cartridge](https://www.imsglobal.org/cc/)
 
 ### tools
 
