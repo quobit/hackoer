@@ -26,6 +26,7 @@
 * [80 resources for Open Education Developers](http://oedb.org/ilibrarian/80-oer-tools/)
 * [SCORM](http://scorm.com/scorm-explained/)
 * [IMS Common Cartridge](https://www.imsglobal.org/cc/)
+* [Tin Can API](http://tincanapi.com/)
 
 ### tools
 
