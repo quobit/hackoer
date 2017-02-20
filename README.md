@@ -31,6 +31,7 @@
 ### tools
 
 * [Sphinx](http://www.sphinx-doc.org/)
+* [Jupyter Notebooks](http://jupyter.org/)
 * [gitbook](https://www.gitbook.com/)
 * [pandoc](http://pandoc.org/)
 * [pollen](http://docs.racket-lang.org/pollen/)
