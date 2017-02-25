@@ -31,6 +31,7 @@
 ### tools
 
 * [Sphinx](http://www.sphinx-doc.org/) - [ReadTheDocs](https://readthedocs.org/)
+* [Static Site Generators](https://www.staticgen.com/)
 * [Jupyter Notebooks](http://jupyter.org/)
 * [gitbook](https://www.gitbook.com/)
 * [pandoc](http://pandoc.org/)
