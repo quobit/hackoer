@@ -44,3 +44,4 @@
 * [GitHub](https://github.com/)
 * [BitBucket](https://bitbucket.org/)
 * [Accessibility Project](http://a11yproject.com/)
+* [Translate](https://github.com/translate)
