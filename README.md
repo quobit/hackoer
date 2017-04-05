@@ -35,6 +35,7 @@
 * [Jupyter Notebooks](http://jupyter.org/)
 * [gitbook](https://www.gitbook.com/)
 * [pandoc](http://pandoc.org/)
+* [rhinotype](http://www.mos6581.org/rinohtype/)
 * [pollen](http://docs.racket-lang.org/pollen/)
 * [StaticGen](https://www.staticgen.com/)
 * [ShareLaTeX](https://www.sharelatex.com/)
