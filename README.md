@@ -16,6 +16,14 @@
 * **Revise**: Adapt, adjust, modify, improve, or alter the content (e.g., translate the content into another language)
 * **Remix**: Combine the original or revised content with other OER to create something new (e.g., incorporate the content into a mashup)
 * **Redistribute**: Share copies of the original content, your revisions, or your remixes with others (e.g., post a copy of the content online for others to download)
+
+## [The ALMS analysis](https://www.redhat.com/archives/osdc-edu-authors/2011-January/pdfoziqzY4Mtn.pdf)
+
+* Access to editing tools?
+* Level of expertise required to revise or remix?
+* Meaningfully editable?
+* Source file access
+
 ## reference
 
 * [FutuOER](http://www.futuoer.org/)
