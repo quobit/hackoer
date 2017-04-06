@@ -9,6 +9,13 @@
 * nurturing a community around OERs
 * etc.
 
+## [The 5R permissions of OER](http://lumenlearning.com/about-oer/)
+
+* **Retain**: Make, own, and control copies of the content
+* **Reuse**: Use the content in a variety of ways
+* **Revise**: Adapt, adjust, modify, improve, or alter the content (e.g., translate the content into another language)
+* **Remix**: Combine the original or revised content with other OER to create something new (e.g., incorporate the content into a mashup)
+* **Redistribute**: Share copies of the original content, your revisions, or your remixes with others (e.g., post a copy of the content online for others to download)
 ## reference
 
 * [FutuOER](http://www.futuoer.org/)
