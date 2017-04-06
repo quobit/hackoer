@@ -43,8 +43,6 @@ You can see a [rubric](https://es.slideshare.net/OpenEdBlogger/alms-analysis-pre
 * [OER Knowledge Cloud](https://oerknowledgecloud.org/)
 * [OER Hub](https://oerhub.net/)
 * [OER World Map](https://oerworldmap.org/)
-* [5R permissions](http://opencontent.org/definition/)
-* [OERPUB](https://github.com/oerpub/documentation/wiki)
 
 ### Standards
 
@@ -62,6 +60,7 @@ You can see a [rubric](https://es.slideshare.net/OpenEdBlogger/alms-analysis-pre
 ## Tools
 
 * [Sphinx](http://www.sphinx-doc.org/) - [ReadTheDocs](https://readthedocs.org/)
+* [OERPUB](https://github.com/oerpub/documentation/wiki)
 * [Static Site Generators](https://www.staticgen.com/)
 * [Jupyter Notebooks](http://jupyter.org/)
 * [gitbook](https://www.gitbook.com/)
