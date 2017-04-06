@@ -5,7 +5,7 @@
 * using build tools to generate multiple OER
 * leveraging i18n methods
 * packaging in several formats
-* free and open license models
+* releasing under free and open license models
 * nurturing a community around OERs
 * etc.
 
