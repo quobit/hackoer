@@ -28,6 +28,7 @@
 * [SCORM](http://scorm.com/scorm-explained/)
 * [IMS Common Cartridge](https://www.imsglobal.org/cc/)
 * [Tin Can API](http://tincanapi.com/)
+* [Producing Open Source Software](http://producingoss.com/)
 
 ### tools
 
