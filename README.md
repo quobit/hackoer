@@ -7,6 +7,7 @@
 * packaging in several formats
 * releasing under free and open license models
 * nurturing a community around OERs
+* applying agile methodologies
 * etc.
 
 ## [The 5R permissions of OER](http://lumenlearning.com/about-oer/)
