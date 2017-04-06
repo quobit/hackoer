@@ -40,6 +40,7 @@
 * [StaticGen](https://www.staticgen.com/)
 * [ShareLaTeX](https://www.sharelatex.com/)
 * [Reveal.js](https://github.com/hakimel/reveal.js/)
+* [impress.js](https://github.com/impress/impress.js/)
 * [deck.js](http://imakewebthings.com/deck.js/)
 * [GitHub](https://github.com/)
 * [BitBucket](https://bitbucket.org/)
