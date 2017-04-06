@@ -42,6 +42,7 @@
 * [Reveal.js](https://github.com/hakimel/reveal.js/)
 * [impress.js](https://github.com/impress/impress.js/)
 * [deck.js](http://imakewebthings.com/deck.js/)
+* [Google Web Designer](https://www.google.es/webdesigner/)
 * [GitHub](https://github.com/)
 * [BitBucket](https://bitbucket.org/)
 * [Accessibility Project](http://a11yproject.com/)
