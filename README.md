@@ -50,3 +50,6 @@
 * [Accessibility Project](http://a11yproject.com/)
 * [Translate](https://github.com/translate)
 * [L20N](http://l20n.org/)
+* [Docker](https://www.docker.com/)
+* [Travis-CI](https://travis-ci.org/)
+* [Discourse](http://www.discourse.org/)
