@@ -19,10 +19,12 @@
 
 ## [The ALMS analysis](https://www.redhat.com/archives/osdc-edu-authors/2011-January/pdfoziqzY4Mtn.pdf)
 
-* Access to editing tools?
-* Level of expertise required to revise or remix?
-* Meaningfully editable?
-* Source file access
+* **A**ccess to editing tools?
+* **L**evel of expertise required to revise or remix?
+* **M**eaningfully editable?
+* **S**ource file access
+
+You can see a [rubric](https://es.slideshare.net/OpenEdBlogger/alms-analysis-presentation) in a presentation (from p. 10 on) 
 
 ## reference
 
