@@ -72,6 +72,7 @@ You can see a [rubric](https://es.slideshare.net/OpenEdBlogger/alms-analysis-pre
 * [Reveal.js](https://github.com/hakimel/reveal.js/)
 * [impress.js](https://github.com/impress/impress.js/)
 * [deck.js](http://imakewebthings.com/deck.js/)
+* [Scrollama](https://github.com/russellgoldenberg/scrollama)
 * [Google Web Designer](https://www.google.es/webdesigner/)
 * [GitHub](https://github.com/)
 * [BitBucket](https://bitbucket.org/)
