@@ -69,6 +69,7 @@ You can see a [rubric](https://es.slideshare.net/OpenEdBlogger/alms-analysis-pre
 * [rhinotype](http://www.mos6581.org/rinohtype/)
 * [pollen](http://docs.racket-lang.org/pollen/)
 * [ShareLaTeX](https://www.sharelatex.com/)
+* [Authorea](https://www.authorea.com/)
 * [Texmaker](http://www.xm1math.net/texmaker/)
 * [Reveal.js](https://github.com/hakimel/reveal.js/)
 * [impress.js](https://github.com/impress/impress.js/)
