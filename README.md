@@ -31,6 +31,7 @@ You can see a [rubric](https://es.slideshare.net/OpenEdBlogger/alms-analysis-pre
 
 ### articles
 
+* [Collaborative Lesson Development](http://third-bit.com/2018/03/03/collaborative-lesson-development.html)
 * [Why Teachers Don't Collaborate on Lesson Development](http://third-bit.com/2016/04/29/why-teachers-dont-collaborate.html)
 * [OER Beyond Voluntarism](https://www.insidehighered.com/views/2014/08/28/open-educational-resources-movement-needs-move-beyond-voluntarism-essay)
 * [Why Can’t OER Enjoy the Same Success as Open Source Software?](https://www.edsurge.com/news/2014-09-03-opinion-why-can-t-oer-enjoy-the-same-success-as-open-source-software)
