@@ -87,3 +87,5 @@ You can see a [rubric](https://es.slideshare.net/OpenEdBlogger/alms-analysis-pre
 * [Travis-CI](https://travis-ci.org/)
 * [Discourse](http://www.discourse.org/)
 * [gitter](https://gitter.im/)
+* [eXeLearning](https://exelearning.net/en/)
+* [H5P](https://h5p.org/)
